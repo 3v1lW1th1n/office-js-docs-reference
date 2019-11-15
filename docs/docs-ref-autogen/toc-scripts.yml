@@ -1,3 +1,5 @@
 items:
-  - name: Excel APIs
-    href: /javascript/api/excel?view=excel-js-preview
+  - name: API reference
+    items:
+      - name: Excel APIs
+        href: /javascript/api/excel?view=excel-js-preview
