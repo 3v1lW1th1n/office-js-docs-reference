@@ -4,9 +4,7 @@
       {
         "files": [
           "**/toc.md",
-          "**/toc.yml",
-          "**/toc-scripts.md",
-          "**/toc-scripts.yml"
+          "**/toc.yml"
         ],
         "exclude": [
           "common/**",
